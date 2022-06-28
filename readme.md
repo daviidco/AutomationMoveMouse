@@ -3,11 +3,11 @@ Simple application python. Open program mac and move mouse for specific time
 
 
 ## Table of content
-1. [Overview](https://https://github.com/daviidco/AutomationMoveMouse/#Overview)  
-3. [Requirements](https://github.com/daviidco/AutomationMoveMouse/#Requirements)
-2. [Download](https://github.com/daviidco/AutomationMoveMouse/#Download)
-4. [Configure Project with Alias MAC](https://github.com/daviidco/AutomationMoveMouse/#ConfigurePoc)
-5. [Run from terminal](https://github.com/daviidco/AutomationMoveMouse/#RunPoc")
+1. [Overview](https://github.com/daviidco/AutomationMoveMouse#-overview)  
+3. [Requirements](https://github.com/daviidco/AutomationMoveMouse#-requirements)
+2. [Download](https://github.com/daviidco/AutomationMoveMouse#%EF%B8%8F-download)
+4. [Configure Project with Alias MAC](https://github.com/daviidco/AutomationMoveMouse#%EF%B8%8F-configure-project-with-alias-mac)
+5. [Run from terminal](https://github.com/daviidco/AutomationMoveMouse#%EF%B8%8F-run-project-from-terminal")
 
 ## 	📜 Overview
 Simple application python. Open program mac and move mouse for specific time
