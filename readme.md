@@ -26,6 +26,16 @@ or clone project using https:
 ```
 https://github.com/daviidco/AutomationMoveMouse.git
 ```
+## Install python version on Mac (good practice with multiplies versions):
+```brew install xz```
+```brew install pyenv```
+```pyenv global 3.10.5```
+
+## Creates a virtual environment and install necessary pacakges
+```python3.10.5 -m venv movemouseenv```
+Go to project downloded and search requirements.txt
+```pip install -r requirements.txt```
+
 
 ## ⚙️ Configure Project with Alias MAC
 Create alias MAC. From terminal: 
@@ -33,7 +43,7 @@ Create alias MAC. From terminal:
 
 set alias:
 
-```alias movemouse='source /Users/NameUser/Documents/projects//ove_mouse/venv/bin/activate; python3 /Users/NameUser/Documents/projects/move_mouse/main.py'```
+```alias movemouse='source /locationvirtualenvironment/bin/activate; python3 /locationproject/AutomationMoveMouse/main.py'```
 
 The alias first activate the environment of project and end with ";" continue with specified the main.py file.
 
